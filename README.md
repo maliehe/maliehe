@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @maliehe
+- 👀 I’m interested in programming world...
+- 🌱 I’m currently learning Com science ana maths...
+- ⚡ Fun fact:still clueless about coding ...
+
+<!---
+maliehe/maliehe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
