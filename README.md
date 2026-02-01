@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @maliehe
 - 👀 I’m interested in programming world...
-- 🌱 I’m currently learning Com science ana maths...
+- 🌱 A computer science graduate
+- an Aspiring programmer
+- 
 - ⚡ Fun fact:still clueless about coding ...
 
 <!---
